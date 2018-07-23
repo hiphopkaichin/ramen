@@ -1,0 +1,15 @@
+h1 {
+    margin: 0 0 15 0;
+    padding: 20 20 20 20;
+    color: lightseagreen;
+    font-family: 'Lobster';
+    font-size: 48px;
+}
+html {
+    background-color: rgb(240,240,240);
+}
+
+body {
+    margin: 0 150 0 150;
+    background-color: white;
+}

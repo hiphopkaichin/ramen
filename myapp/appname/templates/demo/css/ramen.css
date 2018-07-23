@@ -1,0 +1,44 @@
+html {
+    background-color: rgb(240,240,240);
+  background-image: url('watermark.jpg');
+}
+
+body {
+    margin: 0 150 0 150;
+    padding-left: 75px;
+    padding-top: 50px;
+}
+
+h1 {
+    margin: 0 0 15 0;
+    padding: 20 20 20 20;
+    color: red;
+    font-family: 'impact';
+    font-size: 48px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
